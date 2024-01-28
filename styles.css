@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    color: rgb(255, 255, 255) (223, 17, 51);
+    text-decoration: underline;
+}
+.date {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.entry {
+    font-family: cursive;
+}
+
+div {
+    background-color: rgb(217, 111, 111);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 70%;
+    margin: auto; /* Centers div in page */
+    text-align: center; /* Centers div's contents */
+}
+
+section {
+    text-align: center;
+}
+
